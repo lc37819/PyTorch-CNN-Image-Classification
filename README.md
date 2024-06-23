@@ -1,1 +1,1 @@
-## CIFAR 10 Image Classification with PyTorch
+## PyTorch CNN CIFAR 10 Image Classification
