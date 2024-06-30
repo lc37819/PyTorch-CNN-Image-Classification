@@ -1,6 +1,6 @@
 ## PyTorch CNN CIFAR 10 Image Classification
 
-Utilizing a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset using PyTorch. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. The classes include 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', and 'truck'.
+Implementing a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset using PyTorch. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. The classes include 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', and 'truck'.
 
 ![CIFAR-10](https://pytorch.org/tutorials/_static/img/cifar10.png)
 
