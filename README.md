@@ -1,6 +1,6 @@
 ## PyTorch CNN CIFAR 10 Image Classification
 
-This repository contains implemtation of a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset using PyTorch. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. The classes include 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', and 'truck'.
+Utilizing a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset using PyTorch. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. The classes include 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', and 'truck'.
 
 ![CIFAR-10](https://pytorch.org/tutorials/_static/img/cifar10.png)
 
@@ -46,6 +46,11 @@ pip install torch torchvision matplotlib numpy
 ## Goal
 
 Enhance network accuracy through modifying network hyperparameters, experimenting with different convolutional layer configurations, and incorporating dropout.
+
+## Improvements
+1. Increase Model Complexity
+   
+   Add more convolutional layers and use Batch Normalization to improve the model's learning ability.
 
 ## Saving the Model
 
