@@ -52,6 +52,10 @@ Enhance network accuracy through modifying network hyperparameters, experimentin
    
    Add more convolutional layers and use Batch Normalization to improve the model's learning ability.
 
+2. Use Data Augmentation
+
+   Data augmentation techniques like random horizontal flip, random crop, and random rotation can help improve the model's robustness.
+
 ## Saving the Model
 
 To save the trained model, use the following code snippet in your Jupyter notebook:
