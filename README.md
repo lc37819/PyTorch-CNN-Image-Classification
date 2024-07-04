@@ -56,6 +56,10 @@ Enhance network accuracy through modifying network hyperparameters, experimentin
 
    Data augmentation techniques like random horizontal flip, random crop, and random rotation can help improve the model's robustness.
 
+3. Use a Different Optimizer
+
+   Using Adam optimizer instead of SGD can lead to faster convergence.
+
 ## Saving the Model
 
 To save the trained model, use the following code snippet in your Jupyter notebook:
