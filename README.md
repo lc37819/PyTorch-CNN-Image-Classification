@@ -62,7 +62,7 @@ Enhance network accuracy through modifying network hyperparameters, experimentin
 
 ## Saving the Model
 
-To save the trained model, use the following code snippet in your Jupyter notebook:
+To save the trained model, use the following code in your Jupyter notebook:
 
 ```python
 PATH = './cifar_net.pth'
